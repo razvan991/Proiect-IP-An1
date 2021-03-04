@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1543317352 source:d:\folder nou\proiect_ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+
+1545138169 source:c:\users\rosu\desktop\meniu bun\proiect_ip\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	"allFunctions.h"
+
+1545418289 c:\users\rosu\desktop\meniu bun\proiect_ip\allfunctions.h
+	<fstream>
+	<iostream>
+
+1545138169 source:c:\users\rosu\desktop\proiect_ip\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	"allFunctions.h"
+
+1545509637 c:\users\rosu\desktop\proiect_ip\allfunctions.h
+	<fstream>
+	<iostream>
+
+1547477492 source:c:\users\rosu\desktop\proiect_ip\proiect_ip\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<mmsystem.h>
+	"allFunctions.h"
+
+1547503314 c:\users\rosu\desktop\proiect_ip\proiect_ip\allfunctions.h
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	"MMsystem.h"
+
